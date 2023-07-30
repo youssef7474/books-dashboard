@@ -1,0 +1,19 @@
+@media (max-width:767px)
+{
+    .subcatcontanier{
+        justify-content: center;
+    }
+}
+
+@media (max-width:767px) {
+    .subcatSmall {
+      flex-direction: column;
+    }
+    .subcatSmall h2{
+        order: 1;
+    }
+    .subcatSmall button{
+        order: 2;
+      
+    }
+  }

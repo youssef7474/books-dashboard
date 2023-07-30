@@ -1,0 +1,27 @@
+@media (max-width:1029px)
+{
+    .detailsBook{
+        flex-direction: column;
+
+    }
+    .buttonsdetails
+    {
+        flex-direction: column;
+    }
+    .imageDetails
+    {
+        margin: auto;
+        height: 250px;
+    }
+    
+}
+@media (max-width:500px)
+{
+    .imageDetails
+    {
+
+        height: 100%;
+        
+    }
+ 
+}
